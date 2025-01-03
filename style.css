@@ -55,7 +55,8 @@ h1{
 }
 #btn:hover{
     background-color: #9c9696;
-    
+    transform: scale(1.5);
+    transition: 2s;
 }
 #tt{
     color: aliceblue;
