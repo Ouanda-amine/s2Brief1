@@ -53,6 +53,10 @@ h1{
     color: white;
     border-radius: 5px;
 }
+#btn:hover{
+    background-color: #9c9696;
+    
+}
 #tt{
     color: aliceblue;
     text-align: center;
